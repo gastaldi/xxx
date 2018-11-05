@@ -1,0 +1,17 @@
+{
+  "applications": [
+    {
+      "application": "xxxx",
+      "runtime": "vertx",
+      "capabilities": [
+        {
+          "module": "database",
+          "databaseType": "postgresql",
+          "groupId": "org.openshift.appgen",
+          "artifactId": "my-app",
+          "version": "1.0"
+        }
+      ]
+    }
+  ]
+}
